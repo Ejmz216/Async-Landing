@@ -1,2 +1,4 @@
 # Async-Landing
-![](https://github.com/ejmz216/Async-Landing/blob/tree/main/src/img/page.png)
+
+## Proyecto Landing page usando Tailwind CSS y asincronismo. 
+![](src/img/page.png)
